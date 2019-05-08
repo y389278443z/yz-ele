@@ -1,0 +1,40 @@
+1， 上传图片
+2, 绑定手机
+3，修改用户名
+4，修改密码
+
+
+
+
+减： E3666A
+赠：52C188
+特：E57B47
+首：72B43E
+折：E3666A
+新：3AB059
+
+{
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+       {
+              "description": "新用户下单立减17元(不与其它活动同享)",
+              "icon_color": "3AB059",
+              "icon_name": "新",
+              "name": "新人"
+            },
