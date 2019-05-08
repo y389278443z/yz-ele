@@ -1,6 +1,8 @@
 
 # yz-ele
 一个仿饿了么的全套页面，该有的功能都有了， 用到的是 vue + express + mongoose， 也用到了百度地图的定位和搜索功能！
+相关链接： [后台地址](https://github.com/y389278443z/node-ele)
+
 一些页面的截图如下
 
 ![吃了吗首页](https://y389278443z.github.io/images/1.png)
