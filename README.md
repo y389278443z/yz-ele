@@ -5,7 +5,8 @@
 相关链接：  
           [后台地址](https://github.com/y389278443z/node-ele)  
           [页面效果演示](https://y389278443z.github.io/element)  
-          注： 页面效果演示的暂时没有连接数据库，所以只能看到效果，增删改等功能暂时不提供
+          <font color=red size=72> 注： 页面效果演示的暂时没有连接数据库，所以只能看到效果，增删改等功能暂时不提供</font>
+         
 一些页面的截图如下
 
 ![吃了吗首页](https://y389278443z.github.io/images/1.png)
