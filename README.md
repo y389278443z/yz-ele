@@ -4,6 +4,8 @@
 
 相关链接： [后台地址](https://github.com/y389278443z/node-ele)
 
+          [页面效果演示](https://y389278443z.github.io/element)
+
 一些页面的截图如下
 
 ![吃了吗首页](https://y389278443z.github.io/images/1.png)
